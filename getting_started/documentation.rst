@@ -382,7 +382,7 @@ versions, improve the way you work with Odoo, assess your new needs,
 etc.
 
 Our internal goal is to keep a customer at least for 10 years, and offer
-them a solution the grows with their needs!
+them a solution that grows with their needs!
 
 Welcome aboard and enjoy your Odoo experience!
 
